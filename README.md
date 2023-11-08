@@ -20,10 +20,6 @@
 # 👋 Olá, Sou Mateus 
  <br>
 
-![about](https://img.shields.io/badge/-Quem%20Sou%20Eu%3F-red
-)
-
-> Sou Mateus Tomaz, tenho 20 anos de idade, iniciei no mundo da tecnologia muito jovem, como voluntario num projeto de inclusão digital chamado "Inclus.com", desde então, venho navegado em diversas áreas dentro da T.I. Hoje sou estudante de Ciência da Computação pela UEPB.
 
   
 #### Essas São Minhas Redes Sociais    
