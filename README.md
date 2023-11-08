@@ -1,13 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<div align="center" >
-<img height="70"  src="https://pt.wizcase.com/wp-content/uploads/2022/03/GitHub-Logo.png"/>
-</div>
-<div align="center" >
-<img  width="500"src="https://images2.imgbox.com/7b/cc/x8fB4t56_o.png" alt="image host"/>
-   <br>
-    <br>
-</div>
+
 
 
 <div align="center" >
