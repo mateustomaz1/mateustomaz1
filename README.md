@@ -7,7 +7,7 @@ Sou um desenvolvedor front-end apaixonado por tecnologia e design, contribuindo 
 - 💻 Desenvolvedor Fullstack
 - 🎨 Design e UX/UI
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌐 [Meu Website](https://mateustomaz.netlify.app/)
+- 🌐 [Meu Website](https://mateustomaz.vercel.app/)
 
 ## Conecte-se Comigo
 
