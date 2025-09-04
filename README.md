@@ -1,6 +1,6 @@
 # Olá, sou Mateus 👋
 
-Sou um desenvolvedor front-end apaixonado por tecnologia e design, contribuindo para o universo digital aos 21 anos. Atualmente, estou trilhando minha jornada acadêmica em Análise e Desenvolvimento de Sistemas. Vamos codar e criar juntos!
+Sou um desenvolvedor front-end apaixonado por tecnologia, contribuindo para o universo digital aos 22 anos. Atualmente, estou trilhando minha jornada acadêmica em Análise e Desenvolvimento de Sistemas.
 
 ## Sobre Mim
 
